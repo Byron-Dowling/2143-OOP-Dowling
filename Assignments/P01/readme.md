@@ -5,7 +5,7 @@ Files:
 Main.cpp
 ssfile.txt
 
-
+Original Assignment
 Overview
 In Lecture 2 we wrote an array based stack, but didn't implement any checks for popping an empty stack, or overflowing our array data structure. If we wrote a list based implementation we wouldn't have to worry about it getting full, but we chose array so that's an issue.
 
