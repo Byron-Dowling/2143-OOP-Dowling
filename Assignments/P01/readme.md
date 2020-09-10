@@ -1,9 +1,14 @@
 Program #1
 Stacks
 Byron Dowling
+
 Files:
 Main.cpp
 ssfile.txt
+
+Description: 
+I was having trouble getting the program to work in Visual Studio, it did not want to find and open my input file, however I was able to get the program to work correctly in both repl.it and in VS Code. I normally prefer Visual Studio which is why I didn't try the others until I was stumped on why my code wasn't working when it should have.
+The program is set to read in a file of 20 numbers which will trigger the stack to double in size and then several pops will be called until the mempry dips below halfway and then the memory is reduced.
 
 Original Assignment
 Overview
