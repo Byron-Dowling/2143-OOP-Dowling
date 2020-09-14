@@ -4,14 +4,13 @@ Byron Dowling
 
 Files:
 Main.cpp
-ssfile.txt
+stackdata.txt
 
 Description: 
-I was having trouble getting the program to work in Visual Studio, it did not want to find and open my input file, however I was able to get the program to work correctly in both repl.it and in VS Code. I normally prefer Visual Studio which is why I didn't try the others until I was stumped on why my code wasn't working when it should have.
-The program is set to read in a file of 20 numbers which will trigger the stack to double in size and then several pops will be called until the mempry dips below halfway and then the memory is reduced.
+Creating a stack that will grow or shrink based upon if it gets full (grow) or if it becomes under 50% capacity (shrink).
 
-Original Assignment
-Overview
+Original Assignment Description: 
+Overview: 
 In Lecture 2 we wrote an array based stack, but didn't implement any checks for popping an empty stack, or overflowing our array data structure. If we wrote a list based implementation we wouldn't have to worry about it getting full, but we chose array so that's an issue.
 
 This is a pretty simple assignment in which you need to fix the existing Stack class and add the following functionality:
@@ -33,11 +32,51 @@ Likewise, when the user starts popping items off the stack, and the stack gets b
 Be careful since a brand new stack is already below half full! So you only want to reduce a stacks size after it has been doubled at least once.
 
 Input File
-Still working on it.
+The input file will have between 1 - N commands where N will be no bigger than 100000.
+The file is formatted like:
+push x
+pop
+Where pushes have a value to push
+And pops do not
+Output
+Screen Output
+You should print your name and assignment data as the first part of your output:
+Name: Latesha Smith
+Program: P01
+Date: 15 Sep 2020
 
+Every time your stack resizes you should print out the action and the stack size.
+For example + sign implies growing and - implies shrinking:
++ : 10 -> 20
++ : 20 -> 40
++ : 40 -> 80
+- : 80 -> 40
+.
+.
+.
+etc.
+File Output
+Create an output file that contains the following:
+Stack starting size
+Largest stack size
+Ending stack size
+Name: Latesha Smith
+Program: P01
+Date: 15 Sep 2020
+
+Start size: 10
+Max size: 655360
+Ending size: 10240
 Deliverables
-Rename the original file from H02 to main.cpp
+Rename the original file from L03 to main.cpp
 Create a folder in your Assignments folder called p01.
 Place your commented main.cpp file into this p01 folder.
-Place the input you used to test your program in there as well.
+Place all input files and output files created and or used in this folder as well
 Create a banner with P01 as part of the title (see HERE)
+Bring a print out of your code and and output file to class.
+Banner is stapled with your code so its the top and only visible page. Basically a cover sheet.
+Put your code on the front desk at the beginning of class. Example below:
+Banner
+Code
+Output File
+If your papers are not there at the beginning of class they are late. Sorry.
