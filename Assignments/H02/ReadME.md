@@ -83,9 +83,9 @@
 
 #### Public / Private / Protected
 > These are access modifers within a class than help us encapsulate data.
-> "Public" - Any class can refer to the field or call the method.
-> "Private" - Indicates that only the current class or friends will have access to the field or method.
-> "Protected" - Only the current class and subclasses of the class will have access to the field or method. Can be access in child classes or derived classes.
+- "Public" - Any class can refer to the field or call the method.
+- "Private" - Indicates that only the current class or friends will have access to the field or method.
+- "Protected" - Only the current class and subclasses of the class will have access to the field or method. Can be access in child classes or derived classes.
 >
 > https://i.stack.imgur.com/SFysv.jpg
 
