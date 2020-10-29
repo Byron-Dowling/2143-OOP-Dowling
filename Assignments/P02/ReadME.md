@@ -100,4 +100,4 @@ Eventually the program will take shape into actual files but for now this is a c
 >
 >
 >
-> ![Image of flowchart thing](https://drive.google.com/file/d/1lHsWpLnChyzspZA37m4gW1_TSp9Ufp1b/view?usp=sharing)
+<a></a>
