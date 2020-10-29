@@ -2,7 +2,7 @@
 ### Byron Dowling
 ### Description:
 
-Eventually the program will take shape into actual files but for now this is a conceptual assignemnt with determining our stategy for what aspects of the Blackjack game should be in classes and what can be inherited from. This include an in-depth description of each proposed class as well as what data members and methods woudl be implemented. See below.
+Eventually the program will take shape into actual files but for now this is a conceptual assignment for determining our stategy on what aspects of the Blackjack game should be in classes and which ones should inherit. This include an in-depth description of each proposed class as well as what data members and methods woudl be implemented. See below.
 
 ## Proposed Class Layout
 
