@@ -100,4 +100,4 @@ Eventually the program will take shape into actual files but for now this is a c
 >
 >
 >
-[[https://github.com/Byron-Dowling/2143-OOP-Dowling/blob/master/Assignments/P02/UML%20class.png]]
+![Image of flowchart](https://github.com/Byron-Dowling/2143-OOP-Dowling/blob/master/Assignments/P02/UML%20class.png)
