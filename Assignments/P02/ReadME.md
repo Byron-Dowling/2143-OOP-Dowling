@@ -9,7 +9,7 @@ Eventually the program will take shape into actual files but for now this is a c
 #### Class: Card
 > This class is most likely going to be the main parent class that other classes will either inherit from or directly utilize through member objects. As the title says, this is where we will design and handle all aspects of how the cards will function as they will be essential for the remaining aspects of the game.
 
-##### Member Variables:
+> ##### Member Variables:
 > - int suit
 > - int rank
 > - int value
