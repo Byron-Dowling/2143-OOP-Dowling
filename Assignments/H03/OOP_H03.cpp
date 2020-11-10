@@ -1,8 +1,8 @@
 
 // Author:           Byron Dowling
 // Email:            byrondowling7@gmail.com
-// Label:            P01
-// Title:            Array Based Stack
+// Label:            H03
+// Title:            Bubble Sort Correction
 // Course:           2143
 // Semester:         Fall 2020
 
